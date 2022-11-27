@@ -1,0 +1,1 @@
+int Power(int value, int power);
